@@ -1,0 +1,12 @@
+.nav-link {
+    color:black;
+    font-size: 18px;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+:host {
+    width: 100vw;
+    height: 100vh;
+}

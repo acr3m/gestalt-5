@@ -1,0 +1,14 @@
+.about-me {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.about-me h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.about-me p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
